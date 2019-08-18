@@ -3,3 +3,4 @@ iTerm 2 adaptation of [Srash Drasner's (@sdras)](https://github.com/sdras) [Nigh
 
 
 ## Preview
+![Screenshot](https://raw.github.com/fcaldera/night-owl-light-iterm2/master/screenshot.jpg "Screen Shot")
