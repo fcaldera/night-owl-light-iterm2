@@ -215,13 +215,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.96470588445663452</real>
+		<real>0.9843137255</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.96470588445663452</real>
+		<real>0.9843137255</real>
 		<key>Red Component</key>
-		<real>0.96470588445663452</real>
+		<real>0.9843137255</real>
 	</dict>
 	<key>Badge Color</key>
 	<dict>
